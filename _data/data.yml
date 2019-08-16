@@ -59,23 +59,24 @@ career-profile:
 
 education:
     title: 教育经历
-    - degree: 博士
-      university: 长安大学
-      time: 2015 - present
-      details: |
-        专业：交通信息工程及控制
+    details:
+      - degree: 博士
+        university: 长安大学
+        time: 2015 - present
+        details: |
+          专业：交通信息工程及控制
 
-    - degree: 硕士
-      university: 长安大学
-      time: 2010-2013
-      details: |
-        专业：控制理论及控制工程
+      - degree: 硕士
+        university: 长安大学
+        time: 2010-2013
+        details: |
+          专业：控制理论及控制工程
 
-    - degree: 学士
-      university: 长安大学
-      time: 2006 - 2010
-      details: |
-        专业：自动化
+      - degree: 学士
+        university: 长安大学
+        time: 2006 - 2010
+        details: |
+          专业：自动化
 experiences:
     - role: Lead Developer
       time: 2015 - Present
