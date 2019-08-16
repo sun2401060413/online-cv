@@ -58,7 +58,6 @@ career-profile:
       Second paragraph if required.
 
 education:
-    title: 教育经历
     - degree: 博士
       university: 长安大学
       time: 2015 - present
