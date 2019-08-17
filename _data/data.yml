@@ -49,6 +49,10 @@ sidebar:
 #career-profile:
 #    title: 教育经历
 #    summary: |
+career-profile:
+  title: 基本信息
+  summary: |
+    个人评价
 
 education:
     - degree: 博士
@@ -164,9 +168,6 @@ skills:
       - name: Matlab
         level: 85%
 
-career-profile:
-    title: 个人评价
-    summary: |
-      个人评价
+
 # footer: >
 #     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
