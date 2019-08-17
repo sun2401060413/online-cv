@@ -124,13 +124,13 @@ projects:
 #      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: 京新高速呼集段金盆湾隧道本地控制系统
+      - title: 京新高速呼集段金盆湾隧道本地控制系统设计
         link: "#hook"
         tagline: |
         "完成长度3km内隧道左右洞以及隧道监控站共19个PLC+1个触摸屏的代码编写和调试。工作内容主要包含：PLC板卡及单
         元设置；PLC网络配置；PLC数据链接区规划及配置；隧道照明系统、交通控制系统、通风系统、消防系统设备开关控制逻辑设计
         和实现；隧道亮度检测器、CO/VI、车辆检测器设备串口通信协议宏设计和实现；触摸屏交互界面设计；隧道监控站PLC与上位机
-        优先级控制模式设计和实现。以上所有工作均由本人一人独立完成"
+        优先级控制模式设计和实现。以上所有工作均由本人一人独立完成。"
 
 
 publications:
