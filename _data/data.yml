@@ -126,7 +126,8 @@ projects:
     assignments:
       - title: 京新高速呼集段金盆湾隧道本地控制系统设计
         link: "#hook"
-        tagline: "主要负责隧道左右洞共18处PLC、监控站主控PLC和触摸屏的安装、配置以及设备控制逻辑实现、设备通讯报文解析实现、触摸屏界面实现。"
+        tagline: |
+          "主要负责隧道左右洞共18处PLC、监控站主控PLC和触摸屏的安装、配置以及设备控制逻辑实现、设备通讯报文解析实现、触摸屏界面实现。"
 
 publications:
     title: 学术论文
@@ -152,16 +153,17 @@ skills:
     title: 基本技能
 
     toolset:
-      - name: 熟悉计算机视觉项目开发流程，熟悉经典计算视觉任务常用方法，熟悉常用深度学习框架（tensorflow、keras、pytorch）；
-
-      - name: Javascript & jQuery
-        level: 98%
+      - name: python
+        level: 70%
 
       - name: C++
-        level: 98%
+        level: 60%
 
       - name: Matlab
-        level: 85%
+        level: 50%
+
+      - name: C#
+        level: 40%
 
 
 # footer: >
