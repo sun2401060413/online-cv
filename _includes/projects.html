@@ -27,8 +27,8 @@
       - <span class="project-tagline">{{ project.tagline }}</span>
       {% endif %} -->
       
-      <span class="project-title"><a href="{{ project.link }}"></a>{{ project.title }}</span>
-      <div class="project-tagline">{{ project.tagline }}</div>
+      <span class="project-title"><a href="{{ project.link }}">{{ project.title }}</a></span>
+      <div class="project-tagline">{{ project.tagline | markdownify }}</div>
 
     </div><!--//item-->
   {% endfor %}

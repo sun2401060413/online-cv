@@ -127,7 +127,9 @@ projects:
       - title: 京新高速呼集段金盆湾隧道本地控制系统设计
         link: "#hook"
         tagline: |
-          "主要负责隧道左右洞共18处PLC、监控站主控PLC和触摸屏的安装、配置以及设备控制逻辑实现、设备通讯报文解析实现、触摸屏界面实现。"
+          主要负责隧道左右洞共18处PLC、监控站主控PLC和触摸屏的安装、配置以及设备控制逻辑实现、设备通讯报文解析实现、触摸屏界面实现。
+            - Bullet point1
+            - Bullet point2
 
 publications:
     title: 学术论文
@@ -140,6 +142,14 @@ publications:
       - title: A Practical Weather Detection Method Built in the Surveillance System Currently Used to Monitor the Large-scale Freeway in China
         authors: Sun Zhu, Wang Ping, Jin Yinli, Wang Jun,Wang Lei.
         conference: IEEE Access, 2020, 8, 112357-112367. (SCI, 000546414500007)
+
+      - title: Exploiting Deeply Supervised Inception Networks for Automatically Detecting Traffic Congestion on Freeway in China Using Ultra-Low Frame Rate Videos
+        authors: Sun Zhu, Wang Ping, Wang Jun, Peng Xiaoyu, Jin Yinli.
+        conference: IEEE Access, 2020, 8, 21226-21235.（SCI, 000525391900049）
+
+      - title: Visibility Estimation Using Roadside Cameras. A Calibration Based Method
+        authors: Sun Zhu, Li Li, Jin Yinli, Wang Ping.
+        conference: 19th COTA International Conference of Transportation Professionals. 2019.(EI:20193207293372)
 
 #      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
 #        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
