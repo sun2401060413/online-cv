@@ -126,7 +126,7 @@ projects:
     assignments:
       - title: 京新高速呼集段金盆湾隧道本地控制系统设计
         link: "#hook"
-        tagline: "2"
+        tagline: "主要负责隧道左右洞共18处PLC、监控站主控PLC和触摸屏的安装、配置以及设备控制逻辑实现、设备通讯报文解析实现、触摸屏界面实现。"
 
 publications:
     title: 学术论文
@@ -136,9 +136,9 @@ publications:
 #      bibendum fringilla a eu lectus.
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: A Practical Weather Detection Method Built in the Surveillance System Currently Used to Monitor the Large-scale Freeway in China
+        authors: Sun Zhu, Wang Ping, Jin Yinli, Wang Jun,Wang Lei.
+        conference: IEEE Access, 2020, 8: 112357-112367. (SCI: 000546414500007)
 
 #      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
 #        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
@@ -152,8 +152,7 @@ skills:
     title: 基本技能
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: 熟悉计算机视觉项目开发流程，熟悉经典计算视觉任务常用方法，熟悉常用深度学习框架（tensorflow、keras、pytorch）；
 
       - name: Javascript & jQuery
         level: 98%
