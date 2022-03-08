@@ -230,17 +230,24 @@ skills:
     title: 基本技能
 
     toolset:
-      - name: python
-        level: 70%
+       - summary: 熟悉计算机视觉项目开发流程，熟悉经典计算视觉任务常用方法，熟悉常用深度学习框架（tensorflow、keras、pytorch）；
+       - summary: 熟悉Unity游戏开发引擎；
+       - summary: 熟悉python、C++、C#、Matlab编程语言；
+       - summary: 熟悉高速公路机电系统，熟悉AutoCAD设计工具，熟悉OMRON系列PLC单元模块以及工具。
 
-      - name: C++
-        level: 60%
 
-      - name: Matlab
-        level: 50%
+#      - name: python
+#        level: 70%
 
-      - name: C#
-        level: 40%
+#      - name: C++
+#        level: 60%
+#
+#      - name: Matlab
+#        level: 50%
+#
+#      - name: C#
+#        level: 40%
+
 
 
 # footer: >
