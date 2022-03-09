@@ -28,8 +28,8 @@
       {% endif %} -->
       
       <span class="project-title"><a href="{{ project.link }}", target="_blank">{{ project.title }}</a></span>
-        <div class="project-info"><b>项目描述</b>：{{ project.info | markdownify }}</div>
-        <div class="project-tagline"><b>主要工作</b>：{{ project.tagline | markdownify }}</div>
+        <div class="project-info">项目描述：{{ project.info | markdownify }}</div>
+        <div class="project-tagline">主要工作：{{ project.tagline | markdownify }}</div>
 
     </div><!--//item-->
   {% endfor %}
